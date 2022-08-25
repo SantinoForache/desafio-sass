@@ -1,0 +1,18 @@
+$colorprincipal: rgb(236, 72, 72);
+$colorsecundario: rgb(221, 199, 199);
+$colortipografia: rgb(100, 49, 49);
+
+body{
+    background-color: $colorprincipal;
+    header{
+        color: $colortipografia;
+        background-color: $colorsecundario;
+        h1{
+            color: $colortipografia;
+        }
+    }
+
+}
+
+
+
